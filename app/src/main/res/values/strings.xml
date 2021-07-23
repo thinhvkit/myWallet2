@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Wallet</string>
+    <string name="list_title">Task List</string>
+    <string name="loading_tasks_error">tasks_error</string>
+    <string name="task_marked_complete">marked_complete</string>
+    <string name="task_marked_active">marked_active</string>
+    <string name="completed_tasks_cleared">tasks_cleared</string>
+
+    <string name="successfully_saved_task_message">saved_task_message</string>
+    <string name="successfully_added_task_message">added_task_message</string>
+    <string name="successfully_deleted_task_message">deleted_task_message</string>
+
+    <string name="label_completed">completed</string>
+    <string name="label_active">active</string>
+    <string name="label_all">all</string>
+    <string name="no_tasks_all">no_tasks_all</string>
+    <string name="no_tasks_active">no_tasks_active</string>
+    <string name="no_tasks_completed">no_tasks_completed</string>
+
+    <string name="base_hint">Base</string>
+    <string name="name_hint">Name</string>
+    <string name="empty_task_message">empty_task_message</string>
+    <string name="total">total</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="receive">Receive</string>
+    <string name="transfer">Transfer</string>
+    <string name="wallet">Wallet</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="max">MAX</string>
+    <string name="usd">USD</string>
+    <string name="to">To:</string>
+    <string name="amount">Amount:</string>
+    <string name="addEditTask">Add/Edit Task</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear completed</string>
+    <string name="refresh">Refresh</string>
+    <string name="gbp">GBP</string>
+    <string name="eur">EUR</string>
+    <string name="addTask">Add Task</string>
+
+</resources>
